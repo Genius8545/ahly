@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "ahmed", "passed": true },
+  { "id": 2, "name": "ali", "passed": true },
+  { "id": 3, "name": "hassen", "passed": true },
+  { "id": 4, "name": "ibrahem", "passed": false }
+]
